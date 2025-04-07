@@ -33,7 +33,7 @@ In addition to coursework, I build my own projects to explore new technologies, 
 ## 🧭 Repository Structure
 ```plaintext
 📁 Course-1-Bootcamp/
-📁 Course-2-C-Cplusplus/
+📁 Course-2-C-C++/
 📁 Course-3-Operating-Systems/
 📁 Course-4-Embedded-Systems/
 📁 Course-5-Advanced-Systemdev/
