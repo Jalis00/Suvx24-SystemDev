@@ -6,7 +6,9 @@ This repository includes both course-related assignments and personal projects I
 
 ---
 
-## 📁 Repository Structurs
+## 📁 Repository Structure
+
+```plaintext
 suvx24-courses/
 ├── Course-1-Bootcamp/
 ├── Course-2-C-C++/
@@ -14,6 +16,7 @@ suvx24-courses/
 ├── Course-4-Embedded-Systems/
 ├── Course-5-Advanced-Systemdev/
 Personal-Projects/
+
 
 📚 Courses in the Program
 📘 Course 1 – Boot Camp for System Developers
