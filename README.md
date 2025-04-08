@@ -15,6 +15,7 @@ suvx24-courses/
 ├── Course-3-Operating-Systems/
 ├── Course-4-Embedded-Systems/
 ├── Course-5-Advanced-Systemdev/
+├── Course-Thesis
 Personal-Projects/
 
 
